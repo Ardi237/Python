@@ -1,0 +1,194 @@
+A. Penulisan Statement Python :
+1. Statemen adalah sebuah instruksi atau perintah yang akan dieksekusi oleh komputer.
+2. Contoh :
+------->
+print("Hello Word")
+print("Belajar Python dari nol")
+nama = "ardi"
+<-------
+// Penulisan satu statement tidak diakhiri dengan tanda titik-koma.
+3. Sedangkan, bila kita ingin menulis lebih dari satu statement dalam satu baris, maka kita harus memisahnya dengan titik-koma.
+Contoh :
+------->
+print("Hello"); print("World"); print("Tutorial Python untuk Pemula")
+nama_depan = "petani"; nama_belakang = "kode"
+<-------
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+B. Penulisan String pada Python :
+1. String adalah teks atau kumpulan karakter.
+2. String biasanya dibungkus dengan tanda petik, tanda petik tunggal, maupun ganda.
+3. Dapat juga triple tanda petik seperti pada :
+------->
+judul = "Belajar Pemrograman Python sampai Bisa"
+penulis = 'Petani Kode'
+judul = """Belajar Python dengan Cepat"""
+penulis = '''Petani Kode'''
+<-------
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+C. Penuilsan Case pada Python :
+1. Sintak Python bersifat case sensitive, artinya teksini dengan TeksIni dibedakan
+2. Contoh : 
+------->
+judul = "Belajar Dasa-dasar Python"
+Judul = "Belajar Membuat Program Python"
+<-------
+Antara variabel judul dan Judul itu dibedakan....
+3. Case Style :
+------->
+## Snake Case digunakan pada:
+module_name, package_name, method_name, function_name, , global_var_name, instance_var_name, function_parameter_name, local_var_name.
+
+## CamelCase digunakan Pada:
+ClassName, ExceptionName
+
+## ALL CAPS digunakan Pada:
+GLOBAL_CONSTANT_NAME
+<-------
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+D. Penulisan Blok Program Python :
+1. Blok program adalah kumpulan beberapa statement yang digabungkan dalam satu blok.
+2. Penulisan blok program harus ditambahkan indentasi (tab atau spasi 2x atau 4x).
+3. Contoh yang benar :
+------->
+# blok percabangan if
+if username == 'petanikode':
+    print("Selamat Datang Admin")
+    print("Silakan ambil tempat duduk")
+
+# blok percabangan for
+for i in range(10):
+    print i
+<-------
+4. Contoh yang salah :
+------->
+# blok percabangan if
+if username == 'petanikode':
+print("Selamat Datang Admin")
+print("Silakan ambil tempat duduk")
+
+# blok percabangan for
+for i in range(10):
+print i
+<-------
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+E. Cara Penulisan Komentar pada Python :
+1. Komentar merupakan baris kode yang tidak akan dieksekusi.
+2. Komentar digunakan untuk memberikan informasi tambahan dan untuk menonaktifkan kode.
+3. Cara nya menggunakan tanda pagar (#).
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
